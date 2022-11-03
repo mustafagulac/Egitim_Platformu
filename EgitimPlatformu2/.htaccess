@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteRule ^anasayfa index.php [L,NC]
+RewriteRule ^icerik icerik.php [L,NC]
+RewriteRule ^hakkimizda hakkimizda.php [L,NC]
+RewriteRule ^iletisim iletisim.php [L,NC]
